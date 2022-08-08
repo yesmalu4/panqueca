@@ -1,1 +1,1 @@
-# panqueca
+# receita de panqueca
